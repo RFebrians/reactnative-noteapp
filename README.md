@@ -1,4 +1,4 @@
-# reactnative-noteapp
+# reactnative-NoteApp
 
 Note App created using [React Native] and [Expo]
 
