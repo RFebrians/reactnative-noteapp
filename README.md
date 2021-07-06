@@ -1,8 +1,8 @@
-# reactnative-NoteApp
+# React Native - NoteApp
 
 Note App created using [React Native] and [Expo]
 
-### an Update will be going soon
+### an update will be going soon
 
 [React Native]: <http://reactnative.dev/>
 [Expo]: <http://expo.io/>
